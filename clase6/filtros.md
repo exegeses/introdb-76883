@@ -33,4 +33,3 @@
     SELECT *  
       FROM proveedores  
       WHERE razonSocial BETWEEN 'd' AND 'p';  
-
